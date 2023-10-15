@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Danjun Wang
 
 # Full name (for SEO)
 first_name: Alice
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Library Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Peking University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
