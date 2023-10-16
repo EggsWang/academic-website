@@ -5,31 +5,17 @@ date: 2022-10-24
 type: landing
 
 sections:
+# Biography
   - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+# Experience->Education Background
   - block: experience
     content:
-      title: Experience
+      title: Education Background
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -62,6 +48,28 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+# Accomplishment->Research Interests
+# ->Awards
+# Publication
+# Project
+# Recent&Upcoming Talks->Conference Attended
+# Skill->Additional Information
+  - block: features
+    content:
+      title: Additional Information
+      items:
+        - name: Language
+          description: Chinese(native, traditional and simplified characters), English(efficient)
+          icon: r-project
+          icon_pack: fab
+        - name: Hobby
+          description: Accordian, Kendo
+          icon: chart-line
+          icon_pack: fas
+        - name: Crazy
+          description: 100%
+          icon: camera-retro
+          icon_pack: fas
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
