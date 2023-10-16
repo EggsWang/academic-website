@@ -16,7 +16,7 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
-  - name: Conference
+  - name: Conferences
     url: '#hero'
     weight: 50
   - name: Posts
