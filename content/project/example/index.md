@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Works Compilation of Liu Guojun
+summary: Major projects of the National Social Science Fund
 tags:
-  - Deep Learning
+  - Library History
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
