@@ -1,5 +1,5 @@
 ---
-title: 'Interactions Between Gu Jiegang and Library -- An Invastigation on the Letters and Diaries'
+title: 'The Interaction between Gu Jiegang and the Librarianship--An Investigation Centered on the Letters and Diaries'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -10,14 +10,14 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'First Author'
+  - 'Corresponding Author'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-07-11T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,10 +25,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *Library Tribune* (core journal)
 publication_short: In *ICW*
 
-abstract: LONG ABSTRACT Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper attempts to trace the roots of Gu Jiegang's thought of library science and explore the development and practice of the idea by examining his letters and diaries before 35 years old. Gu's thought of library science was rooted in the accumulation of ancient books and historical research, and were influenced by the reformation at that time. In the process of using, learning, transforming the library as a student, a librarian and a scholar at different stages of life, Gu continuously explained and shaped his understanding of library, also changed library in his own way. This understanding and practice mingled with other academic careers and together became his way to transform the turbulent society. It is a specific case of the interaction between scholars and libraries in the period of the Republic of China that library science and academic career of Gu developed commonly with mutual influence.
 
 # Summary. An optional shortened abstract.
 summary: SHORT ABSTRACT Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,13 +44,10 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: 'https://kns.cnki.net/kcms2/article/abstract?v=O9dCEmDP74I76iF4B23iy-d_6-8ULmgN2-YILBazV7mUlAz4TZtuOC5mXqvXYnaT0Bm8KifhhG3YGeMea-yQW45T4-9m__Dasu8iW8cMp0bWCjIWP3tosleUP1VhtUYJ6DIY_nS65Vc=&uniplatform=NZKPT&language=CHS'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
