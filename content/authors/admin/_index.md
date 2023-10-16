@@ -28,17 +28,17 @@ bio: My research interests include Library History, Sociology of Library, Compar
 interests:
   - Library History
   - Sociology of Library
-  - Comparative Library History
+  - Comparative Library Science
 
 # Education to show in About widget
 education:
   courses:
     - course: MA in Library Science
       institution: Peking University, China
-      year: 2022-2024(Expected)
+#      year: 2022-2024(Expected)
     - course: BSc in Engineering of Cyber Security
       institution: Wuhan University, China
-      year: 2018-2022
+#      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
