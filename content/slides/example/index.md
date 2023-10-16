@@ -1,5 +1,5 @@
 ---
-title: Slides
+title: Conferences
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
