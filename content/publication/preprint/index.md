@@ -1,26 +1,26 @@
 ---
-title: "An example preprint / working paper"
+title: "The contribution of Redaya to the establishment of China's librarianship and library education in 1950s."
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-4-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-4-30T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types:[master-thesis] 
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "(Writing)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This thesis examines the influence of Redaya, a Soviet expert, on Chinese librarianship by elaborating tremendous historical documents in the 1950s. She helped to construct the basic architecture of librarianship and library education in a new-born country. But several Chinese scholars didn’t highly rated her work, not only because their education background from the States differs greatly from the Soviet’s, but also due to their particular career interests in the more creative theories on the cutting edge of international academia. Redaya, however, contributed more on introduction of experiences for the rudimentary construction of librarianship in the new-born China. I believe that the research is not only about library history, but also about comparative sociology. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This is my master thesis. Redaya is a Soviet repert in library science, who came to China from 1955 to 1957. In these two years, she helped to establish Department of Library Science in Peking University and many libraries by introducing the experiences of the USSR. Her work is a typical example during the China's policy of "leaning to one side" to the USSR.
 
 tags:
 - Source Themes
