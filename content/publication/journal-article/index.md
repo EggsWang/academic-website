@@ -2,27 +2,25 @@
 title: "Promotion Puzzle: Plight of Female Librarians in China"
 authors:
 - admin
-author_notes:
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-10-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-10-31T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: 
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of None, 1*(1)"
+publication: "Writing"
 publication_short: ""
 
 abstract: LONG ABSTRACT Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: SHORT ABSTRACT Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This is my writing sample for the PhD application, revised based on the final thesis of the course Gender and Development of Sociology Department, Peking University in the 2023 spring semester. The requirement of the course’s thesis was to review relevant literature about a typical female topic. The topic I chose was Research on Female Librarians in China. In the revision, I added some analysis and inference, hoping to explain how the situation of female librarians in China is formed from a comprehensive perspective including political, social and historical factors.
 
 tags:
 - Source Themes
@@ -32,13 +30,8 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
 url_poster: ''
-url_project: ''
-url_slides: ''
 url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,12 +55,4 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
