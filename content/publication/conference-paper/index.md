@@ -13,7 +13,7 @@ author_notes:
   - 'First Author'
   - 'Corresponding Author'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-07-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,12 +26,16 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Library Tribune* (core journal)
-publication_short: In *ICW*
+# publication_short: In *ICW*
 
 abstract: This paper attempts to trace the roots of Gu Jiegang's thought of library science and explore the development and practice of the idea by examining his letters and diaries before 35 years old. Gu's thought of library science was rooted in the accumulation of ancient books and historical research, and were influenced by the reformation at that time. In the process of using, learning, transforming the library as a student, a librarian and a scholar at different stages of life, Gu continuously explained and shaped his understanding of library, also changed library in his own way. This understanding and practice mingled with other academic careers and together became his way to transform the turbulent society. It is a specific case of the interaction between scholars and libraries in the period of the Republic of China that library science and academic career of Gu developed commonly with mutual influence.
+Caltalog:
+1
+2
+2.1
 
 # Summary. An optional shortened abstract.
-summary: SHORT ABSTRACT Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper discussed abundant contents from the letters and diaries of Gu Jiegang, a historian and librarian in the Republic of China. His thinkings on the library science interweaved with his experience outside of the domain of librarianship. There are a lot of his thoughts came from his historical and folklore research, developing along with his individual circumstances and states of mind. I believe that the research could provide another angle for library history, which is different from traditional historiography. In addition, this research method which focuses on certain individuals or groups makes it possible to complete and deepen investigations from the historical setup.
 
 tags: []
 
@@ -43,10 +47,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
+# url_pdf: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
 url_source: 'https://kns.cnki.net/kcms2/article/abstract?v=O9dCEmDP74I76iF4B23iy-d_6-8ULmgN2-YILBazV7mUlAz4TZtuOC5mXqvXYnaT0Bm8KifhhG3YGeMea-yQW45T4-9m__Dasu8iW8cMp0bWCjIWP3tosleUP1VhtUYJ6DIY_nS65Vc=&uniplatform=NZKPT&language=CHS'
 
 # Featured image
