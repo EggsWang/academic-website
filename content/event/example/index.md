@@ -5,7 +5,7 @@ event: 2023 Chinese Library Annual Conference
 event_url: https://www.lsc.org.cn/cns/categoryList?id=1676363541657&siteGroup=1
 
 location: Zhengzhou International Convention and Exhibition Center
-  street: 1, Central Park, Business Inner Ring Road
+  street: '1, Central Park, Business Inner Ring Road'
   city: Zhengzhou
   region: Henan Province
   postcode: '430000'
