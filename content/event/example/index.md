@@ -1,7 +1,7 @@
 ---
 title: Example Talk
 
-event: Hugo Blox Builder Conference
+event: 2023 Chinese Library Annual Conference
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
