@@ -18,7 +18,7 @@ abstract: 'After being suspended for two years due to the epidemic, the 2023 Chi
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-09-15T08:00:00Z'
-date_end: '2023-09-17T17:00:00Z'
+date_end: '2023-09-15T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
