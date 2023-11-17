@@ -12,7 +12,7 @@ address:
   postcode: '430000'
   country: China
 
-summary: the 2023 Chinese Library Annual Conference was held.
+summary: the 2023 Chinese Library Annual Conference was held in Zhengzhou from Septemper 15th to 17th.
 abstract: 'after'
 
 # Talk start and end times.
