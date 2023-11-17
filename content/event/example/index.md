@@ -1,24 +1,23 @@
 ---
 title: Example Talk
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 2023 Chinese Library Annual Conference
+event_url: https://www.lsc.org.cn/cns/categoryList?id=1676363541657&siteGroup=1
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Zhengzhou International Convention and Exhibition Center
+  street: 1, Central Park, Business Inner Ring Road
+  city: Zhengzhou
+  region: Henan Province
+  postcode: '430000'
+  country: China
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 2023 Chinese Library Annual Conference in Zhengzhou
+abstract: 'After being suspended for two years due to the epidemic, the 2023 Chinese Library Annual Conference was held in Zhengzhou. More than 3,000 people attended the conference, including librarians and scholars from domestic and foreign libraries, business representatives and journalists. The theme of the conference is **Nurturing the National Spirit, Cultivating Cultural Confidence**. At the opening event, the Library Society of China released the newly revised **Library Service Declaration**. During the annual meeting, 9 theme forums and 19 sub-venues were. More than 300 experts and scholars focused on specific topics to deliver keynote reports, special speeches, and experience sharing. The China Library Exhibition held at the same time set up exhibition areas focusing on career development achievements, book equipment, book publishing, smart libraries and ancient book protection to build a platform for exchanges and trade in the library field. A series of supporting cultural activities such as Librarian's Night and Yellow River Fotum were planned.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-09-15T08:00:00Z'
+date_end: '2023-09-17T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
