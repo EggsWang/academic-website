@@ -27,29 +27,29 @@ sections:
       items:
         - title: Master of Library Science
           company: Peking University
-          company_url: ''
+          company_url: 'https://www.pku.edu.cn'
           company_logo: org-gc
           location: Beijing, China
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
               GPA: 3.72/4
-
               Core Units:
-
-              * Library Theory
-              * Seminar on Library Science Trend
-              * Other
+              * Research Methods: Qualitative & Quantitative, Academic Writing
+              * Library Science: Library Science Theory, Research on Documentation, Information Resource Management, Seminar on Library Science Trends, Seminar on Public Libraries, Advanced Topic in Unser Research
+              * Other Electives: Gender and Development (Sociology)
         - title: Bachelor of Engineering of Cyber Security
           company: Wuhan University
-          company_url: ''
+          company_url: 'http://www.whu.edu.cn'
           company_logo: org-x
           location: Wuhan, China
           date_start: '2018-09-01'
           date_end: '2022-06-30'
           description: |2-
               GPA:3.32/4
+    
               Core Units:
+              * Higher Mathematics, Database System, Programming, The Principle of Operating System, Cryptology
     design:
       columns: '2'
 # Accomplishment->Research Interests
