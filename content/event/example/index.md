@@ -12,8 +12,8 @@ address:
   postcode: '430000'
   country: China
 
-summary: After being suspended for two years due to the epidemic, the 2023 Chinese Library Annual Conference was held in Zhengzhou.
-abstract: 'After being suspended for two years due to the epidemic, the 2023 Chinese Library Annual Conference was held in Zhengzhou. More than 3,000 people attended the conference, including librarians and scholars from domestic and foreign libraries, business representatives and journalists. '
+summary: the 2023 Chinese Library Annual Conference was held in Zhengzhou.
+abstract: 'After'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
