@@ -1,16 +1,16 @@
 ---
-title: Example Talk
+title: 2023 Chinese Library Annual Conference
 
 event: 2023 Chinese Library Annual Conference
 event_url: https://www.lsc.org.cn/cns/categoryList?id=1676363541657&siteGroup=1
 
-location: Hugo Blox Builder HQ
+location: Zhengzhou International Convention & Exhibition Centre
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 1 Central Park
+  city: Zhengzhou
+  region: Henan Province
+  postcode: '430000'
+  country: China
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
