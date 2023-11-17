@@ -2,7 +2,7 @@
 title: Example Talk
 
 event: 2023 Chinese Library Annual Conference
-event_url: [https://example.org](https://www.lsc.org.cn/cns/categoryList?id=1676363541657&siteGroup=1)
+event_url: https://www.lsc.org.cn/cns/categoryList?id=1676363541657&siteGroup=1
 
 location: Hugo Blox Builder HQ
 address:
