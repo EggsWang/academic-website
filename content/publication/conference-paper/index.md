@@ -73,7 +73,3 @@ projects:
 slides: example
 ---
 
-Catalog
-0 Introduction
-1 A student's imagine about the library
-1.1 the formation of Gu's library thoughts
