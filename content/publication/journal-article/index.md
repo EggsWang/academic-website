@@ -17,7 +17,7 @@ publication_types:
 publication: "Writing"
 publication_short: ""
 
-abstract: LONG ABSTRACT Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In my academic writing sample, I explained the glass ceil of female librarians caused by China's special national conditions, which shows that the situation of a certain group of people is inseparable from the society, politics, and history of the region. Only on the basis of in-depth understanding in various situations, humanistic research and career are available. 
 
 # Summary. An optional shortened abstract.
 summary: This is my writing sample for the PhD application, revised based on the final thesis of the course Gender and Development of Sociology Department, Peking University in the 2023 spring semester. The requirement of the course’s thesis was to review relevant literature about a typical female topic. The topic I chose was Research on Female Librarians in China. In the revision, I added some analysis and inference, hoping to explain how the situation of female librarians in China is formed from a comprehensive perspective including political, social and historical factors.
