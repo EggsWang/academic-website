@@ -14,7 +14,7 @@ publishDate: "2023-10-31T00:00:00Z"
 publication_types: 
 
 # Publication name and optional abbreviated publication name.
-publication: "Writing"
+publication: "(Writing)"
 publication_short: ""
 
 abstract: In my academic writing sample, I explained the glass ceil of female librarians caused by China's special national conditions, which shows that the situation of a certain group of people is inseparable from the society, politics, and history of the region. Only on the basis of in-depth understanding in various situations, humanistic research and career are available. 
