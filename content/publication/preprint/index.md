@@ -2,11 +2,11 @@
 title: "The contribution of Redaya to the establishment of China's librarianship and library education in 1950s."
 authors:
 - admin
-date: "2024-4-30T00:00:00Z"
+date: "2023-4-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-4-30T00:00:00Z"
+publishDate: "2023-4-30T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -61,8 +61,3 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
