@@ -52,47 +52,6 @@ sections:
               * Higher Mathematics, Database System, Programming, The Principle of Operating System, Cryptology
     design:
       columns: '2'
-# Accomplishment->Research Interests
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      # e.g. title: 'Accomplish&shy;ments'
-      title: Research Interests
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Library History
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Sociology of Library
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: Comparative Library Science
-          url: ''
-    design:
-      columns: '2'
 # ->Awards
 # Publication
   - block: collection
@@ -159,23 +118,6 @@ sections:
     design:
       columns: '2'
       view: compact
-# Skill->Additional Information
-  - block: features
-    content:
-      title: Additional Information
-      items:
-        - name: Language
-          description: Chinese(native, traditional and simplified characters), English(efficient)
-          icon: r-project
-          icon_pack: fab
-        - name: Hobby
-          description: Accordian, Kendo
-          icon: chart-line
-          icon_pack: fas
-        - name: Crazy
-          description: 100%
-          icon: camera-retro
-          icon_pack: fas
   - block: collection
     id: posts
     content:
@@ -219,9 +161,7 @@ sections:
       text: |-
         Ask me anything! No matter it is about academics, daily life or other things!
       # Contact (add or remove contact options as necessary)
-      email: wangdanjun@stu.pku.edu.cn
-      phone: 
-      appointment_url: 'https://calendly.com'
+      email: ordinaryeggsy@gmail.com
       address:
         street: 5 Yiheyuan Road
         city: Haidian District
@@ -229,20 +169,6 @@ sections:
         postcode: '100060'
         country: China
         country_code: CN
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
