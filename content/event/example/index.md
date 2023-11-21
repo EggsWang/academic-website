@@ -60,14 +60,4 @@ projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+After being suspended for two years due to the epidemic, the 2023 Chinese Library Annual Conference was held in Zhengzhou. More than 3,000 people attended the conference, including librarians and scholars from domestic and foreign libraries, business representatives and journalists. The theme of the conference is Nurturing the National Spirit, Cultivating Cultural Confidence. At the opening event, the Library Society of China released the revised Library Service Declaration. During the annual conference, nine theme forums and nineteen sub-venues were held, in which more than 300 experts and scholars delivered reports, special speeched and experience sharing focused on specific topics. The China Library Exhibition and a series of supporting cultural activities such as Librarian's Night were also conducted.
