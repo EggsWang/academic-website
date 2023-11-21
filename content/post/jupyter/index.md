@@ -1,77 +1,19 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+title: Me in the midst of the epidemic
+subtitle: Why did I decide to tranfer my major?
+summary:  Why did I decide to tranfer my major?
 authors:
   - admin
 tags: []
 categories: []
 projects: []
-date: '2019-02-05T00:00:00Z'
-lastMod: '2019-09-05T00:00:00Z'
+date: '2020-02-05T00:00:00Z'
+lastMod: '2020-09-05T00:00:00Z'
 image:
   caption: ''
   focal_point: ''
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+My profound interest in Library Science was built during undergraduate, when I majored in engineering in information security. The training from mathematics and engineering helped me develop my problem-solving skills. I also advanced my ability to retrieve informatin and think logically through my experience as leader of the debate team. However, I always feel a lack of humanistically care, which makes me feel empty and depressed. When the Covid-19 epidemic broke out at winter, I was a sophomore at Wuhan University. When I just left school after the final exam, the city was locked down. In the semester of online classes, I heard from the news that medical staff and ordinary people worked so hard to live, and so many people left forever. I can’s stop thinking if I have ever met them on the streets. All of these struck me deeply. I thought a lot about the fragility of life, the meaning of life, my connection to others, and what I loved, what I wanted to do in my whole life. I want to do something that is relevant to people, something that can change the lives of others. After taking several electives in literature, philosophy, religious science and other social science, I chose library science as major of master.
 
-![png](./index_1_0.png)
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
-
-## Install Python and JupyterLab
-
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
-
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
-
-## Create or upload a Jupyter notebook
-
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
-
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
-
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
-
-## Edit your post metadata
-
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
-
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
-
-```
----
-title: My post's title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-```
-
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://wowchemy.com/docs/content/writing-markdown-latex/).
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+No matter in providing accurate information about the Covid-19 virus, or in presercing the collective memory of the devastating epidemic, libraries in China didn’t seem to fulfill their responsibility and social function. But why? I wonder the reason and progress behind. 
