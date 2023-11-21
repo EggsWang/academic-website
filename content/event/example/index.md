@@ -61,3 +61,10 @@ projects:
 ---
 
 After being suspended for two years due to the epidemic, the 2023 Chinese Library Annual Conference was held in Zhengzhou. More than 3,000 people attended the conference, including librarians and scholars from domestic and foreign libraries, business representatives and journalists. The theme of the conference is Nurturing the National Spirit, Cultivating Cultural Confidence. At the opening event, the Library Society of China released the revised Library Service Declaration. During the annual conference, nine theme forums and nineteen sub-venues were held, in which more than 300 experts and scholars delivered reports, special speeched and experience sharing focused on specific topics. The China Library Exhibition and a series of supporting cultural activities such as Librarian's Night were also conducted.
+
+What did I do:
+
+- Assisted in organizing the annual meeting of the Academic Council of Library Society of China
+- Participated in theme forum Library Memory Resource & the Third China Memory Project Co-resourcing and Sharing Seminar, watched the documentary National Library of China: An Oral History
+- Participated in session Construction and Service of Child Friendly Library
+- Conducted extensive researches in Zhengzhou Library regarding its caring system for marginalized groups. Zhengzhou Library is famous for staying open all night during heavy rains to provide food, water and shelter to nearby victims. 
